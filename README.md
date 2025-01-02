@@ -1,4 +1,4 @@
-# my-app
+# matchmaking-app
 to disturb the love industry
 ## Licensing
 
